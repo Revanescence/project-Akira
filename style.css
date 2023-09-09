@@ -10,7 +10,7 @@
 html,body{
     width: 100%;
     height: 100%;
-    background-color: #111;
+    background-color: #7b2eab;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,9 +20,9 @@ html,body{
     width: 400px;
     max-width: 400px;
     padding: 20px;
-    background-color: #000;
+    background-color: #d5dfe0;
     border-radius: 10px;
-    color: #eee;
+    color: #121212;
     display: flex;
     justify-content: center;
     align-items: center;
